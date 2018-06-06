@@ -7,4 +7,3 @@ def using_while
 end
 
 puts using_while
-
